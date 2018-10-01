@@ -1,0 +1,140 @@
+.viet{
+	width: 85%;
+	height: 500px;
+	background: yellow;
+	margin: 0 auto;
+}
+.viet .viet1{
+	float: left;
+	width: 50%;
+	height: 500px;
+	background: #EB7153;
+}
+.viet1 .v1{
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 300px;
+	height: 350px;
+	background: #D7D7D7;
+}
+.v1 .vanh{
+	margin: 0 auto;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background: yellow;
+}
+.vanh img{
+	padding-top: 15%;
+	padding-left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.v1 h3{
+	text-align: center;
+	padding-top:10px;
+	font-size: 20px;
+	color: #898989;
+}
+.v1 input{
+	margin: 0 auto;
+	display: block;
+	width: 175px;
+	margin-left: 28px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 40px;
+	margin-bottom: 20px;
+	background: #C2C2C2;
+}
+.v1 input.username{
+	text-align: center;
+	padding-left: 25px;
+	text-transform: uppercase;
+
+}
+.v1 input.password{
+	text-align: center;
+	padding-left: 25px;
+
+}
+.v1 input.login{
+	width: 245px;
+	padding-left: 30px;
+	background: #00B2BF;
+} 
+.v1 .link a{
+	display: block;
+	text-align: center;
+	color: red;
+	text-decoration: none;
+}
+.viet .viet2{
+	float: left;
+	width:	50%;
+	height: 500px;
+	background: #00B2BF;
+}
+.viet2 .v2{
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 300px;
+	height: 400px;
+	background: #D7D7D7;
+}
+.v2 .vanh2{
+	margin: 0 auto;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background: yellow;
+}
+.vanh2 img{
+	padding-top: 15%;
+	padding-left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.v2 h3{
+	text-align: center;
+	font-size: 20px;
+	color: #898989;
+}
+.v2 input{
+	margin: 0 auto;
+	display: block;
+	width: 175px;
+	margin-left: 28px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 40px;
+	margin-bottom: 20px;
+	background: #C2C2C2;
+}
+.v2 input.username{
+	text-align: center;
+	padding-left: 25px;
+	text-transform: uppercase;
+
+}
+.v2 input.password{
+	text-align: center;
+	padding-left: 25px;
+
+}
+.v2 input.confirmpassword{
+	text-align: center;
+	padding-left: 25px;
+}
+.v2 input.register{
+	width: 245px;
+	padding-left: 30px;
+	background: #00B2BF;
+	color: white;
+} 
+.v2 .link a{
+	display: block;
+	text-align: center;
+	color: red;
+	text-decoration: none;
+}
